@@ -17,7 +17,6 @@ Este proyecto es una aplicación web interactiva creada con Streamlit para apren
 ### Instalación
 
 1. Clonar el repositorio:
-```bash
 git clone https://github.com/tu_usuario/estadistica-inferencial-streamlit.git
 2. Entrar a la carpeta: cd estadistica-inferencial-streamlit
 3. Crear un entorno virtual: python -m venv env
@@ -36,4 +35,7 @@ bloque1.py a bloque4.py: módulos con contenido y ejemplos de cada tema.
 requirements.txt: dependencias necesarias.
 
 ### ¿Quieres contribuir?
+
 ¡Bienvenido/a! Puedes abrir un issue o pull request para mejoras, correcciones o nuevos contenidos.
+
+### ¡Gracias por visitar y usar esta app!
