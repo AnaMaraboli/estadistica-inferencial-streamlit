@@ -27,7 +27,7 @@ source env/bin/activate  # en Windows: .\env\Scripts\activate
 
 Luego abrirá la app en tu navegador.
 
-Estructura del Proyecto
+### Estructura del Proyecto
 
 app.py: archivo principal con menú y carga de módulos.
 
@@ -35,5 +35,5 @@ bloque1.py a bloque4.py: módulos con contenido y ejemplos de cada tema.
 
 requirements.txt: dependencias necesarias.
 
-¿Quieres contribuir?
+### ¿Quieres contribuir?
 ¡Bienvenido/a! Puedes abrir un issue o pull request para mejoras, correcciones o nuevos contenidos.
