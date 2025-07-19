@@ -1,0 +1,8 @@
+[theme]
+base="light"
+primaryColor="#4a90e2"    # Azul suave
+backgroundColor="#f7f7f7" # Fondo gris claro
+secondaryBackgroundColor="#eaeaea"
+textColor="#333333"
+font="serif"
+
